@@ -1,0 +1,5 @@
+{"/api/*":{
+    "target":"https://rawg-video-games-database.p.rapidapi.com",
+    "secure":true,
+    "logLevel":"debug"
+}}
